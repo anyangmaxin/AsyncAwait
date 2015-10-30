@@ -1,0 +1,5 @@
+E:\GitHub\AsyncAwait\AsyncAwait\02ThreadPool\bin\Debug\02ThreadPool.exe.config
+E:\GitHub\AsyncAwait\AsyncAwait\02ThreadPool\bin\Debug\02ThreadPool.exe
+E:\GitHub\AsyncAwait\AsyncAwait\02ThreadPool\bin\Debug\02ThreadPool.pdb
+E:\GitHub\AsyncAwait\AsyncAwait\02ThreadPool\obj\Debug\02ThreadPool.exe
+E:\GitHub\AsyncAwait\AsyncAwait\02ThreadPool\obj\Debug\02ThreadPool.pdb
